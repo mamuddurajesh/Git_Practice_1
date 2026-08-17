@@ -4,3 +4,4 @@
 
 - Learning Git branching and merging.
 - checking git fetch command.
+- another change in branch2 to check how fetch works.
